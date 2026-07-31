@@ -56,7 +56,7 @@ Elevated CPU utilization was associated with multiple **Host Process for OMA-DM 
 
 **Before**
 
-![Task Manager Performance](performance-overview.png)
+![Task Manager Performance](Task-Manager-Performance.png)
 
 Observed CPU utilization averaging approximately **70–80%**, while memory, disk, network, and GPU utilization remained within expected operating ranges.
 
@@ -66,7 +66,7 @@ Observed CPU utilization averaging approximately **70–80%**, while memory, dis
 
 **Before**
 
-![Task Manager Processes](task-manager-processes.png)
+![Task Manager Processes](Task-Manager-Processes.png)
 
 Reviewed running processes and identified multiple **Host Process for OMA-DM Client** instances consuming a significant portion of CPU resources.
 
@@ -76,7 +76,7 @@ Reviewed running processes and identified multiple **Host Process for OMA-DM Cli
 
 **Before**
 
-![Startup Applications](startup-apps.png)
+![Startup Applications](Task-Manager-Startup.png)
 
 Reviewed startup applications and identified several non-essential programs configured to launch automatically during sign-in.
 
@@ -86,7 +86,7 @@ Reviewed startup applications and identified several non-essential programs conf
 
 **Before**
 
-![Windows Update](windows-update.png)
+![Windows Update](Windows-Update.png)
 
 Verified Windows Update status and identified a pending **Windows 11 Version 24H2** feature update available for installation.
 
