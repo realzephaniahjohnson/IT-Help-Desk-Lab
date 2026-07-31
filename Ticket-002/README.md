@@ -54,7 +54,6 @@ Elevated CPU utilization was associated with multiple **Host Process for OMA-DM 
 
 ### Initial Performance Review
 
-**Before**
 
 ![Task Manager Performance](Task-Manager-Performance.png)
 
@@ -64,7 +63,6 @@ Observed CPU utilization averaging approximately **70–80%**, while memory, dis
 
 ### Process Investigation
 
-**Before**
 
 ![Task Manager Processes](Task-Manager-Processes.png)
 
@@ -74,7 +72,6 @@ Reviewed running processes and identified multiple **Host Process for OMA-DM Cli
 
 ### Startup Applications
 
-**Before**
 
 ![Startup Applications](Task-Manager-Startup.png)
 
@@ -84,7 +81,6 @@ Reviewed startup applications and identified several non-essential programs conf
 
 ### Windows Update Verification
 
-**Before**
 
 ![Windows Update](Windows-Update.png)
 
