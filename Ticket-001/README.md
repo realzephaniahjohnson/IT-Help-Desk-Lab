@@ -37,6 +37,17 @@ Incorrect `.pdf` file association.
 
 ---
 
+## Evidence
+
+### Before
+![Before](Before.png)
+
+### After
+![After](After.png)
+
+
+---
+
 ## Skills Demonstrated
 - Windows 11 Administration
 - Troubleshooting
