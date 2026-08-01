@@ -19,6 +19,7 @@ This repository documents hands-on IT support scenarios I completed in my Window
 | Ticket | Issue | Status |
 |---------|-------|--------|
 | Ticket-001 | PDF Files Won't Open | ✅ Complete |
+| Ticket-002 | Slow Windows PC Performance | ✅ Complete |
 
 ---
 
